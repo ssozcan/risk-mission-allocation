@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
 
-This is a temporary script file.
-"""
 
 import yagmail
 import random
@@ -59,10 +54,7 @@ def set_new_world_order():
 
 set_new_world_order()
 
-# environ['RISK_SENDER'] = 'risk.assign.missions@gmail.com'
-# environ['RISK_EMAILS_TO'] = 'saitsinanozcan@gmail.com, mel.sanjak@gmail.com, brk.karacali@gmail.com, salihgok@gmail.com, samialpak@gmail.com'
-# environ['RISK_APP_PASSWORD'] = 'fwkaecvwbqchwiod'
-# environ
+
 
 
 
